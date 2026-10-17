@@ -1,0 +1,12 @@
+# 工具專屬 Python 環境（啟動時會自動重建）
+.venv/
+
+# 下載的股價、新聞等快取資料
+cache/
+
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# Claude Code 開發設定
+.claude/
